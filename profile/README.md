@@ -1,8 +1,11 @@
-## Hi there 👋
+<h1 align="center">Hello there!!👋</h1>
+<h2 align="center">Who we are?</h2>
+<ul>
+  <li>We are a little 2 member team that trying to make open source projects more and more...</li>
+</ul>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<h2 align="center">Team Members</h2>
 
+* Young Fly ([@Young-Fly-Ai](https://github.com/Young-Fly-Ai))
+* X-shuffle ([@X-shuffle](https://github.com/X-shuffle))
+* Chandula Janith ([@RedEdge967](https://github.com/RedEdge967))
