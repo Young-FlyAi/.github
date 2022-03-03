@@ -9,4 +9,4 @@
 * Young Fly ([@Young-Fly-Ai](https://github.com/Young-Fly-Ai))
 * X-shuffle ([@X-shuffle](https://github.com/X-shuffle))
 * Chandula Janith ([@RedEdge967](https://github.com/RedEdge967))
-* Arthur Pan([@KingArthur0205](https://github.com/KingArthur0205) 
+* Arthur Pan ([@KingArthur0205](https://github.com/KingArthur0205))
