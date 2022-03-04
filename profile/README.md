@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!!👋</h1>
 <h2 align="center">Who we are 👇</h2>
 <ul>
-  <li>We are a little 4 member team that is trying to make an open source projects more and more...</li>
+  <li>We are a little 4 member team that is trying to make open source projects more and more...</li>
 </ul>
 
 <h2 align="center">Team Members 👨👨👨👨</h2>
