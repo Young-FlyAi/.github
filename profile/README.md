@@ -10,4 +10,4 @@
 * X-shuffle ([@X-shuffle](https://github.com/X-shuffle))
 * Chandula Janith ([@RedEdge967](https://github.com/RedEdge967))
 * Arthur Pan ([@KingArthur0205](https://github.com/KingArthur0205))
-* Malik Idrees Hasan Khan ([@Malik Idrees Hasan Khan](https://github.com/MalikIdreesHasanKhan))
+* Malik Idrees Hasan Khan ([@MalikIdreesHasanKhan](https://github.com/MalikIdreesHasanKhan))
