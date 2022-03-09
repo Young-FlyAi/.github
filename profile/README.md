@@ -1,10 +1,10 @@
 <h1 align="center">Hello there And Welcome To Our Profile!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  
-<h2 align="center">Who we are <img src="https://media1.giphy.com/media/ItcYaVhkaJYl7BpDEU/giphy.gif" width="30px"></h1></h2>
+<h2 align="center">Who we are <img src="https://media1.giphy.com/media/ItcYaVhkaJYl7BpDEU/giphy.gif" height="40px" width="30px"></h1></h2>
 <ul>
   <li>We are a little 3 member team that is trying to make open source projects more and more...</li>
 </ul>
 
-<h2 align="center">Team Members🥷🥷🥷🥷🥷</h2>
+<h2 align="center">Team Members🥷🥷🥷</h2>
 
 * Young Fly ([@Young-Fly-Ai](https://github.com/Young-Fly-Ai))
 * Chandula Janith ([@RedEdge967](https://github.com/RedEdge967))
